@@ -12,8 +12,12 @@ BytOS is a purely functional Linux distribution. This repository contains the co
 ![byt](https://user-images.githubusercontent.com/102890144/233574465-a0135662-d70a-4d6c-9225-9626d25bfab0.png)
 
 
+## Features
 
-##
+BytOS uses declarative .json files to config the entire operating system, the default config file is `/etc/bytos/configuration.json`. There are some basic modules provided in BytOS, you can also write BytOS modules yourself and import them in your config files. 
+
+
+## Status
 
 We are still working in progress to bring BytOS out, feel free to open issues and PRs.
 
